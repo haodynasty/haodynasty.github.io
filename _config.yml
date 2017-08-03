@@ -3,7 +3,7 @@ title: BlakeQu Blog
 SEOTitle: BlakeQu的博客 | Blake Blog | BlakeQu Blog
 header-img: img/home-bg.jpg
 email: blakequ@gmail.com
-description: "关于Android开发、文字与写作、生活体验 | BlakeQu，H5 & Android Development | 这里是 @BlakeQu 的个人博客，与您一起分享和成长。"
+description: "生活很精彩，读书很浪漫 | BlakeQu，H5 & Android Development | 这里是 @BlakeQu 的个人博客，与您一起分享和成长。"
 keyword: "BlakeQu, Blake, Blake的博客, BlakeQu Blog, 博客, 个人网站, 互联网, Android开发, 产品, 创业者, 凡米小豆"
 url: "http://blakequ.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -68,7 +68,7 @@ ga_domain: blakequ.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，享受创业，享受生活。人生很精彩，做自己的舞台。"
+sidebar-about-description: "做一个有思想的人，享受创业，享受生活。生活很精彩，读书很浪漫。"
 sidebar-avatar: /img/avatar-blakequ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
