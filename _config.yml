@@ -4,7 +4,7 @@ SEOTitle: BlakeQu的博客 | Blake Blog | BlakeQu Blog
 header-img: img/home-bg.jpg
 email: blakequ@gmail.com
 description: "生活很精彩，读书很浪漫 | BlakeQu，H5 & Android Development | 这里是 @BlakeQu 的个人博客，与您一起分享和成长。"
-keyword: "BlakeQu, Blake, Blake的博客, BlakeQu Blog, 博客, 个人网站, 互联网, Android开发, 产品, 创业者, 凡米小豆"
+keyword: "BlakeQu, Blake, Blake的博客, BlakeQu Blog, 博客, 个人网站, 互联网, Android开发, 产品, 创业者"
 url: "http://blakequ.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -82,9 +82,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "凡米小豆",
-        href: "http://fanmicloud.com"
-    },{
         title: "廖雪峰的博客",
         href: "http://www.liaoxuefeng.com/"
     },{
